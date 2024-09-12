@@ -1,3 +1,8 @@
+data/
+outputs/
+ops_1P_whole.json
+*.slurm
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
