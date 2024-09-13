@@ -18,9 +18,31 @@ setup(
     ],
     python_requires='>=3.8',
     install_requires=[
-        'requests',
-        'numpy',
+        'h5py=2.10.0',
+        'importlib-metadata',
+        'matplotlib',
+        'mkl',
+        'natsort,'
+        'numba',
+        'numpy=1.23.4',
+        'paramiko',
+        'pyqt5',
+        'pyqt5.sip',
+        'pyqt5-tools',
+        'pyqtgraph',
+        'pynrrd',
+        'pynwb',
         'pytest',
+        'rastermap>0.1.0'
+        'requests',
+        'sbxreader',
+        'scanimage-tiff-reader>=1.4.1',
+        'scikit-learn',
+        'scipy>=1.4.0',
+        'suite2p',
+        'tbb',
+        'tifffile',
+        'torch>=1.7.1',
     ],
     entry_points={
         'console_scripts': [
