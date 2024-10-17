@@ -18,7 +18,7 @@ setup(
     ],
     python_requires='>=3.8',
     install_requires=[
-        'h5py=2.10.0',
+        'h5py==2.10.0',
         'importlib-metadata',
         'matplotlib',
         'mkl',
