@@ -22,9 +22,9 @@ setup(
         'importlib-metadata',
         'matplotlib',
         'mkl',
-        'natsort,'
+        'natsort',
         'numba',
-        'numpy=1.23.4',
+        'numpy==1.23.4',
         'paramiko',
         'pyqt5',
         'pyqt5.sip',
