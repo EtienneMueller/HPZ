@@ -33,7 +33,7 @@ setup(
         'pynrrd',
         'pynwb',
         'pytest',
-        'rastermap>0.1.0'
+        'rastermap>0.1.0',
         'requests',
         'sbxreader',
         'scanimage-tiff-reader>=1.4.1',
